@@ -1,1 +1,17 @@
 # ifsc-1310
+<!doctype html>
+<html lang="en">
+<head >
+    <meta charset="utf-8">
+    <Title>IFSC 1310 | Aaron Emery</title>
+    <meta name="description" content="Coursework from IFSC 1310 - Spring 2024">
+    <meta name="author" content="Aaron Emery">
+  </head>
+<body>
+      <h1>Aaron Emery</h1>
+      <nav>
+        <ul>
+          <li><a href="prototype/index.html">Prototype Assignment</a></li>
+        </ul>
+      </nav>
+  </body>
